@@ -22,3 +22,5 @@ quotient = ____
 # Print results
 print("Sum:", ____)
 print("Difference:", ____)
+print("Product:", ____)
+print("Quotient:", ____)
